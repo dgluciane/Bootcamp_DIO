@@ -1,0 +1,82 @@
+body{
+    background: #0000;
+    font-family: Arial;
+    font-size: 12px;
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+}
+
+
+/* #nome{
+    font-size: 100px;
+    color: red
+} */
+
+
+/*header*/
+
+header .foto{
+    border: 1px solid #505050;
+    height: 120px;
+    border-radius: 50%;
+    float: left;
+    /* text-align: center; */
+    /* width: 300px;
+    margin: 0px auto; */
+    /* width: 6em */
+}
+
+header #nome{
+    text-align:center;
+}
+
+/* dados*/
+.dados{
+    text-align:center;
+    }
+
+/*formacao_academica*/
+.formacao_academica{
+    margin:0;
+    margin-bottom: 15px;
+}
+
+.formacao_academica h3{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+/* .formacao_academica.cursos { */
+    /* font-style: normal; */
+    /* text-decoration: none; */
+    /* margin:0;
+    margin-bottom: 10px; */
+/* } */
+
+
+/*experiencia profissional*/
+.experiencia_profissional h3{
+    font-style: italic;
+    text-decoration: underline;;
+}
+
+/* .experiencia_profissional .soma{
+    font-style: bold;
+} */
+
+/* .experiencia_profissional .atividades{
+    color: red; */
+/* } */
+
+/*lista contatos*/
+.lista_contatos{
+    /* padding-left: 1px; */
+    list-style-type: none;
+    text-align:center;    
+}
+
+/* .lista_contatos li a {
+    list-style-type: none;
+    text-decoration: none;
+} */

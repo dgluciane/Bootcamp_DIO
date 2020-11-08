@@ -1,0 +1,38 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #d3d6dc;
+}
+
+.contato{
+    background-color: #cacdd5;
+    /* color: white; */
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.formacao{
+    background-color: #b8bdc7;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+
+.experiencia{
+    background-color:#969ba7;
+    color: white;
+}
+
+.atividades{
+    background-color:#747982;
+    color: white;
+}

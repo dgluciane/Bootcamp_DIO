@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: pink;
+    /* background-image:url("img/download.jpg");
+    background-position: 200px 700px;
+    background-repeat: scroll; */
+}

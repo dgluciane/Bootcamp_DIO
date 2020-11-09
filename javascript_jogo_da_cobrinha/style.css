@@ -5,8 +5,10 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: pink;
-    /* background-image:url("img/download.jpg");
-    background-position: 200px 700px;
-    background-repeat: scroll; */
+    color: black;
+    font-size: 20px;
+    background-image:url("img/download.jpg");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: top center;
 }
